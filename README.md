@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <br><br>### About Me<br><br>🎓 **I’m currently a third-year student**<br>Focused on building applications and strengthening my skills in app development and AI.<br><br>🔭 **I’m currently working on**<br>Flutter-based applications and AI-powered projects.<br><br>👯 **I’m looking to collaborate on**<br>Flutter, AI/ML, and full-stack development projects.<br><br>🤝 **I’m looking for help with**<br>Agentic AI concepts, LangChain, LangGraph, and backend system design.<br><br>🌱 **I’m currently learning**<br>Agentic AI, LangChain, LangGraph, Django, and Machine Learning.<br><br>💬 **Ask me about**<br>Flutter development, Firebase, REST APIs, and AI integrations.<br><br>⚡ **Fun fact**<br>I enjoy turning ideas into working products through code.<br><br>
 
 
